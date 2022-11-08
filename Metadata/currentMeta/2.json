@@ -1,0 +1,162 @@
+{
+    "name": "Kai #2",
+    "symbol": "KAI",
+    "image": "https://kai1.kaizencorps.com/g1/main/2.png",
+    "description": "The fate of humanity lies in the hands of the Kaizen Corps",
+    "collection": {
+        "name": "Kaizen Gen 1",
+        "family": "Kaizen Corps"
+    },
+    "seller_fee_basis_points": 555,
+    "attributes": [
+        {
+            "trait_type": "Helmet",
+            "value": "Metal Warden"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Obelisk"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "M799 Artillery"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Gladiator"
+        },
+        {
+            "trait_type": "Decal",
+            "value": "Stripes Decal"
+        },
+        {
+            "trait_type": "Color Family",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Solid"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Silver"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://kai1.kaizencorps.com/g1/main/2.png",
+                "type": "image/png",
+                "cdn": true
+            }
+        ],
+        "creators": [
+            {
+                "address": "r3cXGs7ku4Few6J1rmNwwUNQbvrSPoLAAU9C2TVKfow",
+                "share": 25
+            },
+            {
+                "address": "4bGP1nBjpmBhQq2DtcVqFHpgv8oPSyuKUD2dV8P2Ciwd",
+                "share": 25
+            },
+            {
+                "address": "2bfQFRJpqGSBQP5hCnqRrsEaKw2U3GFtHqUC981WdXGw",
+                "share": 25
+            },
+            {
+                "address": "T3QoaTdwuitr4EEXu1mBRRb6sddgoybYyEDSj7u13xM",
+                "share": 25
+            }
+        ],
+        "category": "image",
+        "kaizen": {
+            "render_id": 8739,
+            "build_code": "04-08-28-09-(01-09)-(00-00)-00--01-03-02-03-01_08742",
+            "rarity_rank": 3043,
+            "stats": {
+                "attack": 0,
+                "defense": 0,
+                "upgrade": 0,
+                "repair": 0,
+                "hit_points": 0
+            },
+            "domination": {
+                "campaigns": 0,
+                "wins": 0,
+                "losses": 0
+            }
+        }
+    }
+}

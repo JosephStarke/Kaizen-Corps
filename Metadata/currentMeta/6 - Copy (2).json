@@ -1,0 +1,162 @@
+{
+    "name": "Kai #6",
+    "symbol": "KAI",
+    "image": "https://kai1.kaizencorps.com/g1/main/6.png",
+    "description": "The fate of humanity lies in the hands of the Kaizen Corps",
+    "collection": {
+        "name": "Kaizen Gen 1",
+        "family": "Kaizen Corps"
+    },
+    "seller_fee_basis_points": 555,
+    "attributes": [
+        {
+            "trait_type": "Helmet",
+            "value": "Vanguard"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Colossus"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "EMP Sensor"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Lance"
+        },
+        {
+            "trait_type": "Decal",
+            "value": "Number Decal"
+        },
+        {
+            "trait_type": "Color Family",
+            "value": "Pastel"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Pastels"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://kai1.kaizencorps.com/g1/main/6.png",
+                "type": "image/png",
+                "cdn": true
+            }
+        ],
+        "creators": [
+            {
+                "address": "r3cXGs7ku4Few6J1rmNwwUNQbvrSPoLAAU9C2TVKfow",
+                "share": 25
+            },
+            {
+                "address": "4bGP1nBjpmBhQq2DtcVqFHpgv8oPSyuKUD2dV8P2Ciwd",
+                "share": 25
+            },
+            {
+                "address": "2bfQFRJpqGSBQP5hCnqRrsEaKw2U3GFtHqUC981WdXGw",
+                "share": 25
+            },
+            {
+                "address": "T3QoaTdwuitr4EEXu1mBRRb6sddgoybYyEDSj7u13xM",
+                "share": 25
+            }
+        ],
+        "category": "image",
+        "kaizen": {
+            "render_id": 560,
+            "build_code": "05-06-06-01-(05-04)-(05-04)-00--03-04-01-01-05_00563",
+            "rarity_rank": 8614,
+            "stats": {
+                "attack": 0,
+                "defense": 0,
+                "upgrade": 0,
+                "repair": 0,
+                "hit_points": 0
+            },
+            "domination": {
+                "campaigns": 0,
+                "wins": 0,
+                "losses": 0
+            }
+        }
+    }
+}

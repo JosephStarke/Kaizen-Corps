@@ -1,0 +1,182 @@
+{
+    "name": "Kai #5",
+    "symbol": "KAI",
+    "image": "https://kai1.kaizencorps.com/g1/main/5.png",
+    "description": "The fate of humanity lies in the hands of the Kaizen Corps",
+    "collection": {
+        "name": "Kaizen Gen 1",
+        "family": "Kaizen Corps"
+    },
+    "seller_fee_basis_points": 555,
+    "attributes": [
+        {
+            "trait_type": "Helmet",
+            "value": "Metal Warden"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Kinetic"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "M71 Vulcan"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Defender"
+        },
+        {
+            "trait_type": "Decal",
+            "value": "Base Decal"
+        },
+        {
+            "trait_type": "Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Primary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Primary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Secondary Color Family",
+            "value": "Gradient"
+        },
+        {
+            "trait_type": "Secondary Color",
+            "value": "Yellow Ash"
+        },
+        {
+            "trait_type": "Accent",
+            "value": "Base"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://kai1.kaizencorps.com/g1/main/5.png",
+                "type": "image/png",
+                "cdn": true
+            }
+        ],
+        "creators": [
+            {
+                "address": "r3cXGs7ku4Few6J1rmNwwUNQbvrSPoLAAU9C2TVKfow",
+                "share": 25
+            },
+            {
+                "address": "4bGP1nBjpmBhQq2DtcVqFHpgv8oPSyuKUD2dV8P2Ciwd",
+                "share": 25
+            },
+            {
+                "address": "2bfQFRJpqGSBQP5hCnqRrsEaKw2U3GFtHqUC981WdXGw",
+                "share": 25
+            },
+            {
+                "address": "T3QoaTdwuitr4EEXu1mBRRb6sddgoybYyEDSj7u13xM",
+                "share": 25
+            }
+        ],
+        "category": "image",
+        "kaizen": {
+            "render_id": 7731,
+            "build_code": "04-00-04-05-(07-08)-(07-08)-00--03-03-02-01-00_07734",
+            "rarity_rank": 5682,
+            "stats": {
+                "attack": 0,
+                "defense": 0,
+                "upgrade": 0,
+                "repair": 0,
+                "hit_points": 0
+            },
+            "domination": {
+                "campaigns": 0,
+                "wins": 0,
+                "losses": 0
+            }
+        }
+    }
+}
